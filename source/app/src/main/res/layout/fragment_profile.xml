@@ -1,0 +1,107 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.fragments.ProfileFragment"
+    android:id="@+id/d">
+
+    <RelativeLayout
+        android:id="@+id/rlAvatarBackground"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/photo_profile_height"
+        android:background="@color/main_color">
+
+        <ImageView
+            android:id="@+id/ivAvatar"
+            android:layout_width="@dimen/size_avatar_imageview"
+            android:layout_height="@dimen/size_avatar_imageview"
+            android:layout_centerInParent="true" />
+
+
+
+        <TextView
+            android:id="@+id/tvProfileName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/margin_widget_default_large"
+
+            android:textColor="@android:color/white"
+            android:textSize="25sp"
+            android:text="@string/default_name" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ibBack"
+            android:src="@mipmap/ic_back"
+            android:background="@null"
+            android:padding="@dimen/margin_widget_default_small"
+            android:layout_margin="@dimen/margin_widget_default_small"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true" />
+
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_below="@id/rlAvatarBackground"
+        android:layout_marginTop="@dimen/margin_widget_default_large"/>
+    
+
+
+    <!-- <LinearLayout
+        android:id="@+id/lnProfileButtons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+
+        android:layout_above="@+id/ibAvatarMenu"
+        android:layout_alignLeft="@+id/ibAvatarMenu"
+        android:layout_alignRight="@+id/ibAvatarMenu"
+        android:gravity="center"
+        android:layout_marginBottom="@dimen/margin_widget_default_small"
+
+        android:visibility="gone">
+
+
+
+
+    </LinearLayout> -->
+
+    <!-- <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ibAvatarMenu"
+
+        android:layout_alignParentRight="true"
+        android:layout_alignBottom="@id/view"
+        android:layout_marginRight="@dimen/margin_widget_default_normal" /> -->
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/send_button"
+        android:text="@string/notice_sanding_is_all_send"
+        android:id="@+id/buttonSend"
+        android:layout_below="@+id/rlAvatarBackground"
+        android:visibility="gone" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/send_button"
+        android:text="New Button"
+        android:id="@+id/buttonShifts"
+        android:layout_below="@+id/buttonSend" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/intercede_shift"
+        android:id="@+id/buttonDeliver"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>

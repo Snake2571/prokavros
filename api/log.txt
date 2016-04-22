@@ -1,0 +1,538 @@
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Inventory PUT: {"tarif":{"sumDay":500,"sumHour":100,"sumTsHour":700},"idGroup":1,"idParent":1,"model":"Желтый велик детский","number":"182","serverId":"258","state":3,"count_rent":0}
+0
+0
+0
+0
+0
+0
+0
+0
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+{"client":{"vipNumber":"N/A","name":"","phone":"9889464785","summ":1104,"serverId":2},"endTime":1448225290418,"inventory":{"tarif":{"sumDay":300,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":20,"model":"trek alpaha","number":"133","numberFrame":"","serverId":"76","state":1,"count_rent":0},"isCompleted":0,"token":"8645960203193091448221663823","paidFine":0,"startTime":1448221690418,"surcharge":50}
+338
+Inventory PUT: {"tarif":{"sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"nordway uptown red","number":"103","numberFrame":"K60738237","serverId":"196","state":3,"count_rent":0}
+338
+338
+Inventory PUT: {"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":1,"model":"Тrek детский прицеп","number":"180","numberFrame":"WTU073CS0145J","serverId":"257","state":3,"count_rent":0}
+{"client":{"vipNumber":"N/A","name":"","phone":"9889464785","summ":1104,"serverId":2},"endTime":1448227365788,"inventory":{"tarif":{"sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":20,"model":"детск. красный атлан","number":"128","numberFrame":"","serverId":"86","state":1,"count_rent":0},"isCompleted":0,"token":"8645960203193091448223735507","paidFine":0,"startTime":1448223765788,"surcharge":50}
+Inventory PUT: {"tarif":{"sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Kross level A2","number":"186","numberFrame":"LY2A011914 (EN14766)","serverId":"262","state":2,"count_rent":0}
+338
+PUT RENT {"client":{"vipNumber":"N/A","name":"","phone":"9889464785","summ":1224,"serverId":2},"endTime":1448227365788,"inventory":{"tarif":{"sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":20,"model":"детск. красный атлан","number":"128","numberFrame":"","serverId":"86","state":1,"count_rent":1},"isCompleted":1,"token":"8645960203193091448223735507","paidFine":0,"startTime":1448223765788,"surcharge":120}
+338
+{"client":{"vipNumber":"N/A","name":"","phone":"9889464785","summ":1224,"serverId":2},"endTime":1448227932306,"inventory":{"tarif":{"sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Stels Navigator 570","number":"183","numberFrame":"S6B006007","serverId":"259","state":1,"count_rent":0},"isCompleted":0,"token":"8645960203193091448224294566","paidFine":0,"startTime":1448224332306,"surcharge":50}
+PUT RENT {"client":{"vipNumber":"N/A","name":"","phone":"9889464785","summ":1374,"serverId":2},"endTime":1448227932306,"inventory":{"tarif":{"sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Stels Navigator 570","number":"183","numberFrame":"S6B006007","serverId":"259","state":1,"count_rent":1},"isCompleted":1,"token":"8645960203193091448224294566","paidFine":0,"startTime":1448224332306,"surcharge":150}
+{"client":{"vipNumber":"N/A","name":"","phone":"9897132520","summ":0,"serverId":13},"endTime":1448310968471,"inventory":{"tarif":{"sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":20,"model":"stels navigator 610","number":"142","numberFrame":"XL13KO036921","serverId":"79","state":1,"count_rent":0},"isCompleted":0,"token":"8645960203193091448224531524","paidFine":0,"startTime":1448224568471,"surcharge":100}
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+{"client":{"vipNumber":"N/A","name":"","phone":"9889464785","summ":1374,"serverId":2},"endTime":1448265501023,"inventory":{"tarif":{"sumDay":800,"sumHour":300,"sumTsHour":1200},"idGroup":1,"idParent":1,"model":"Sibvelz","number":"14","numberFrame":"tj0920208","serverId":"132","state":1,"count_rent":0},"isCompleted":0,"token":"8645960203193091448261867788","paidFine":0,"startTime":1448261901023,"surcharge":20}
+PUT RENT {"breakdown":{"code":"1","description":"Прокол колеса","summ":100},"client":{"vipNumber":"N/A","name":"","phone":"9889464785","summ":1574,"serverId":2},"endTime":1448265501023,"inventory":{"tarif":{"sumDay":800,"sumHour":300,"sumTsHour":1200},"idGroup":1,"idParent":1,"model":"Sibvelz","number":"14","numberFrame":"tj0920208","serverId":"132","state":4,"count_rent":1},"isCompleted":1,"token":"8645960203193091448261867788","paidFine":0,"startTime":1448261901023,"surcharge":200}
+{"client":{"vipNumber":"N/A","name":"","phone":"9889464785","summ":1574,"serverId":2},"endTime":1448265794491,"inventory":{"tarif":{"name":"Gopro 3+","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"stels navigator 500","number":"45","numberFrame":"xl 11603224","serverId":"156","state":1,"count_rent":0},"isCompleted":0,"token":"8645960203193091448262169281","paidFine":0,"startTime":1448262194491,"surcharge":50}
+PUT RENT {"client":{"vipNumber":"N/A","name":"","phone":"9889464785","summ":2074,"serverId":2},"endTime":1448265794491,"inventory":{"tarif":{"name":"Gopro 3+","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"stels navigator 500","number":"45","numberFrame":"xl 11603224","serverId":"156","state":4,"count_rent":1},"isCompleted":1,"token":"8645960203193091448262169281","paidFine":0,"startTime":1448262194491,"surcharge":500}
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+{"client":{"vipNumber":"N/A","name":"","phone":"9185883935","serverId":4,"summ":0,"blackList":0},"endTime":1448274552320,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Sibvelz","number":"15","numberFrame":"tj0920341","serverId":"133","state":1,"count_rent":0},"isCompleted":0,"token":"8645960203193091448270928438","paidFine":0,"startTime":1448270952320,"surcharge":50}
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2074,"blackList":0},"endTime":1448456358761,"inventory":{"tarif":{"sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":20,"model":"детск. красный атлан","number":"128","numberFrame":"","serverId":"86","state":1,"count_rent":1},"isCompleted":0,"token":"8645960203193091448452643465","paidFine":0,"startTime":1448452698761,"surcharge":45}
+338
+338
+338
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2074,"blackList":0},"endTime":1448547321982,"inventory":{"tarif":{"sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":1,"count_rent":5},"isCompleted":0,"token":"8645960203193091448543672287","paidFine":0,"startTime":1448543721982,"surcharge":50}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2174,"blackList":0},"endTime":1448547321982,"inventory":{"tarif":{"sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":4,"count_rent":6},"isCompleted":1,"token":"8645960203193091448543672287","paidFine":0,"startTime":1448543721982,"surcharge":100}
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2074,"blackList":0},"endTime":1448547593953,"inventory":{"tarif":{"sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":1,"count_rent":5},"isCompleted":0,"token":"8645960203193091448543955075","paidFine":0,"startTime":1448543993953,"surcharge":55}
+338
+338
+338
+338
+338
+338
+338
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2074,"blackList":0},"endTime":1448567886218,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":20,"model":"stels navigator 610","number":"112","numberFrame":"XL13KO36964","serverId":"113","state":1,"count_rent":298},"isCompleted":0,"token":"8645960203193091448564257386","paidFine":0,"startTime":1448564286218,"surcharge":50}
+338
+338
+338
+338
+338
+338
+338
+338
+338
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":0,"blackList":0},"endTime":1448634564102,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One ","number":"125","numberFrame":"ibdfsd12k3416","serverId":"126","state":1,"count_rent":274},"isCompleted":0,"token":"8645960203193091448630932879","paidFine":0,"startTime":1448630964101,"surcharge":50}
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"коргина дарья андреевна","phone":"9885387785","serverId":"F713D879-DFDB-0E18-E61D-664C2F","summ":0,"blackList":0},"endTime":1448634748209,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One ","number":"126","numberFrame":"ibdfsd12k3406","serverId":"127","state":1,"count_rent":273},"isCompleted":0,"token":"8645960203193091448631112249","paidFine":0,"startTime":1448631148209,"surcharge":45}
+338
+338
+338
+338
+338
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"чабан юрий александрович","phone":"9281985065","serverId":"45FA0676-4146-3967-CEAC-0F6930","summ":0,"blackList":0},"endTime":1448638345684,"inventory":{"tarif":{"name":"Gopro 3+","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"stels navigator 500","number":"45","numberFrame":"xl 11603224","serverId":"156","state":1,"count_rent":249},"isCompleted":0,"token":"8645960203193091448634685352","paidFine":0,"startTime":1448634745684,"surcharge":50}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"чабан юрий александрович","phone":"9281985065","serverId":"45FA0676-4146-3967-CEAC-0F6930","summ":500,"blackList":0},"endTime":1448638345684,"inventory":{"tarif":{"name":"Gopro 3+","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"stels navigator 500","number":"45","numberFrame":"xl 11603224","serverId":"156","state":4,"count_rent":250},"isCompleted":1,"token":"8645960203193091448634808901","serverId":"38864","paidFine":0,"startTime":0,"surcharge":500}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2524,"blackList":0},"endTime":1448567886218,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":20,"model":"stels navigator 610","number":"141","numberFrame":"XL13KO36964","serverId":"113","state":4,"count_rent":299},"isCompleted":1,"token":"8645960203193091448642283534","serverId":"38863","paidFine":0,"startTime":0,"surcharge":450}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"чабан юрий александрович","phone":"9281985065","serverId":"45FA0676-4146-3967-CEAC-0F6930","summ":55,"blackList":0},"endTime":1448638345684,"inventory":{"tarif":{"name":"Gopro 3+","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"stels navigator 500","number":"45","numberFrame":"xl 11603224","serverId":"156","state":4,"count_rent":250},"isCompleted":1,"token":"8645960203193091448642577149","serverId":"38864","paidFine":0,"startTime":0,"surcharge":55}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2574,"blackList":0},"endTime":1448567886218,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":20,"model":"stels navigator 610","number":"141","numberFrame":"XL13KO36964","serverId":"113","state":4,"count_rent":299},"isCompleted":1,"token":"8645960203193091448643387098","serverId":"38863","paidFine":0,"startTime":0,"surcharge":500}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"чабан юрий александрович","phone":"9281985065","serverId":"45FA0676-4146-3967-CEAC-0F6930","summ":500,"blackList":0},"endTime":1448638345684,"inventory":{"tarif":{"name":"Gopro 3+","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"stels navigator 500","number":"45","numberFrame":"xl 11603224","serverId":"156","state":4,"count_rent":250},"isCompleted":1,"token":"8645960203193091448643459546","serverId":"38864","paidFine":0,"startTime":0,"surcharge":500}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2574,"blackList":0},"endTime":1448567886218,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":20,"model":"stels navigator 610","number":"141","numberFrame":"XL13KO36964","serverId":"113","state":4,"count_rent":299},"isCompleted":1,"token":"8645960203193091448643459530","serverId":"38863","paidFine":0,"startTime":0,"surcharge":500}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"чабан юрий александрович","phone":"9281985065","serverId":"45FA0676-4146-3967-CEAC-0F6930","summ":500,"blackList":0},"endTime":1448638345684,"inventory":{"tarif":{"name":"Gopro 3+","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"stels navigator 500","number":"45","numberFrame":"xl 11603224","serverId":"156","state":4,"count_rent":250},"isCompleted":1,"token":"8645960203193091448643933406","serverId":"38864","paidFine":0,"startTime":0,"surcharge":500}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2574,"blackList":0},"endTime":1448547593953,"inventory":{"tarif":{"name":"","sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":4,"count_rent":7},"isCompleted":1,"token":"8645960203193091448643933349","serverId":"38862","paidFine":0,"startTime":0,"surcharge":500}
+338
+338
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2074,"blackList":0},"endTime":1448648116293,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Voyageur 2","number":"112","numberFrame":"CM13 M547 266","serverId":"201","state":1,"count_rent":0},"isCompleted":0,"token":"8645960203193091448644483208","paidFine":0,"startTime":1448644516293,"surcharge":50}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2574,"blackList":0},"endTime":1448648116293,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Voyageur 2","number":"112","numberFrame":"CM13 M547 266","serverId":"201","state":4,"count_rent":1},"isCompleted":1,"token":"8645960203193091448644585838","serverId":"38865","paidFine":0,"startTime":0,"surcharge":500}
+338
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9853039017","serverId":"30825295-C7F4-3F9B-36D2-173448","summ":0,"blackList":0},"endTime":1448648663235,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Voyageur 2","number":"112","numberFrame":"CM13 M547 266","serverId":"201","state":1,"count_rent":0},"isCompleted":0,"token":"8645960203193091448645033739","paidFine":0,"startTime":1448645063235,"surcharge":50}
+338
+338
+338
+338
+338
+338
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9853039017","serverId":"30825295-C7F4-3F9B-36D2-173448","summ":250,"blackList":0},"endTime":1448648663235,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Voyageur 2","number":"112","numberFrame":"CM13 M547 266","serverId":"201","state":4,"count_rent":1},"isCompleted":1,"token":"8645960203193091449995525285","serverId":"38866","paidFine":0,"startTime":0,"surcharge":250}
+338
+338
+338
+338
+338
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"2","numberFrame":"snmng11m87447","serverId":"120","state":3,"count_rent":190}
+338
+Inventory PUT: {"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":3,"count_rent":45}
+338
+338
+Inventory PUT: {"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":2,"count_rent":45}
+338
+Inventory PUT: {"tarif":{"name":"","sumDay":500,"sumHour":100,"sumTsHour":700},"idGroup":1,"idParent":1,"model":"Sibvelz","number":"16","numberFrame":"tj0920066","serverId":"134","state":4,"count_rent":95}
+Inventory PUT: {"avatar":"files/images/1450111094.jpg","tarif":{"name":"","sumDay":500,"sumHour":100,"sumTsHour":700},"idGroup":1,"idParent":1,"model":"Sibvelz","number":"16","numberFrame":"tj0920066","serverId":"134","state":4,"count_rent":95}
+Inventory PUT: {"avatar":"files/images/1450111109.jpg","tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"1","numberFrame":"snmng11m87416","serverId":"119","state":4,"count_rent":321}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9853039017","serverId":"30825295-C7F4-3F9B-36D2-173448","summ":500,"blackList":0},"endTime":1448648663235,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Voyageur 2","number":"112","numberFrame":"CM13 M547 266","serverId":"201","state":4,"count_rent":1},"isCompleted":1,"token":"8645960203193091450193970543","serverId":"38866","paidFine":0,"startTime":0,"surcharge":500}
+Inventory PUT: {"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":20,"model":"Schwinn Streamliner ","number":"112","numberFrame":"","serverId":"105","state":4,"count_rent":1}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9853039017","serverId":"30825295-C7F4-3F9B-36D2-173448","summ":500,"blackList":0},"endTime":1448648663235,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Voyageur 2","number":"112","numberFrame":"CM13 M547 266","serverId":"201","state":4,"count_rent":1},"isCompleted":1,"token":"8645960203193091450196580964","serverId":"38866","paidFine":0,"startTime":0,"surcharge":500}
+338
+338
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9853039017","serverId":"30825295-C7F4-3F9B-36D2-173448","summ":580,"blackList":0},"endTime":1448648663235,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Voyageur 2","number":"112","numberFrame":"CM13 M547 266","serverId":"201","state":4,"count_rent":1},"isCompleted":1,"token":"8693460121370371450278592362","serverId":"38866","paidFine":0,"startTime":0,"surcharge":580}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9853039017","serverId":"30825295-C7F4-3F9B-36D2-173448","summ":1160,"blackList":0},"endTime":1448648663235,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Voyageur 2","number":"112","numberFrame":"CM13 M547 266","serverId":"201","state":4,"count_rent":2},"isCompleted":1,"token":"8693460121370371450278592362","serverId":"38866","paidFine":0,"startTime":0,"surcharge":580}
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2074,"blackList":0},"endTime":1450369556231,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":1,"count_rent":219},"isCompleted":0,"token":"8693460121370371450279504076","paidFine":0,"startTime":1450279556231,"surcharge":50}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2574,"blackList":0},"endTime":1450369556231,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":220},"isCompleted":1,"token":"8693460121370371450279504076","paidFine":0,"startTime":1450279556231,"surcharge":500}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3074,"blackList":0},"endTime":1450369556231,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":221},"isCompleted":1,"token":"8693460121370371450279504076","paidFine":0,"startTime":1450279556231,"surcharge":500}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3574,"blackList":0},"endTime":1450369556231,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":222},"isCompleted":1,"token":"8693460121370371450279504076","paidFine":0,"startTime":1450279556231,"surcharge":500}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":4074,"blackList":0},"endTime":1450369556231,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":223},"isCompleted":1,"token":"8693460121370371450279504076","paidFine":0,"startTime":1450279556231,"surcharge":500}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":4574,"blackList":0},"endTime":1450369556231,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":224},"isCompleted":1,"token":"8693460121370371450279504076","paidFine":0,"startTime":1450279556231,"surcharge":500}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":5074,"blackList":0},"endTime":1450369556231,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":225},"isCompleted":1,"token":"8693460121370371450279504076","paidFine":0,"startTime":1450279556231,"surcharge":500}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2574,"blackList":0},"endTime":1450369556231,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":220},"isCompleted":1,"token":"8693460121370371450280545505","serverId":"38867","paidFine":0,"startTime":0,"surcharge":500}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":0,"blackList":0},"endTime":1450285419255,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Sibvelz","number":"13","numberFrame":"tj0920251","serverId":"131","state":1,"count_rent":24},"isCompleted":0,"token":"8693460121370371450281774437","paidFine":0,"startTime":1450281819255,"surcharge":50}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":0,"blackList":0},"endTime":1450285613041,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":1,"model":"Sibvelz Woman","number":"23","numberFrame":"tj0907891","serverId":"143","state":1,"count_rent":203},"isCompleted":0,"token":"8693460121370371450281971515","paidFine":0,"startTime":1450282013041,"surcharge":50}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":0,"blackList":0},"endTime":1450285998357,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":20,"model":"trek alpaha","number":"133","numberFrame":"","serverId":"76","state":1,"count_rent":12},"isCompleted":0,"token":"8693460121370371450282195602","paidFine":0,"startTime":1450282398357,"surcharge":20}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":0,"blackList":0},"endTime":1450288997427,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":15,"model":"","number":"803","numberFrame":"","serverId":"49","state":1,"count_rent":1},"isCompleted":0,"token":"8693460121370371450284236962","paidFine":0,"startTime":1450285397427,"surcharge":20}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":0,"blackList":0},"endTime":1450289384674,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":20,"model":"stels navigator 500","number":"43","numberFrame":"xl 11 0032956","serverId":"91","state":1,"count_rent":426},"isCompleted":0,"token":"8693460121370371450285560719","paidFine":0,"startTime":1450285784674,"surcharge":50}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":0,"blackList":0},"endTime":1450290496033,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":15,"model":"","number":"801","numberFrame":"","serverId":"47","state":1,"count_rent":1},"isCompleted":0,"token":"8693460121370371450286620422","paidFine":0,"startTime":1450286776033,"surcharge":50}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":100,"blackList":0},"endTime":1450290496033,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":15,"model":"","number":"801","numberFrame":"","serverId":"47","state":4,"count_rent":2},"isCompleted":1,"token":"8693460121370371450286620422","serverId":"5189DCEB-2E71-094A-5CF3-A806933A32C4}","paidFine":0,"startTime":1450286776033,"surcharge":100}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":600,"blackList":0},"endTime":1450285419255,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Sibvelz","number":"13","numberFrame":"tj0920251","serverId":"131","state":4,"count_rent":25},"isCompleted":1,"token":"8693460121370371450281774437","paidFine":0,"startTime":1450281819255,"surcharge":500}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":1100,"blackList":0},"endTime":1450285419255,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Sibvelz","number":"13","numberFrame":"tj0920251","serverId":"131","state":4,"count_rent":26},"isCompleted":1,"token":"8693460121370371450281774437","paidFine":0,"startTime":1450281819255,"surcharge":500}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":1600,"blackList":0},"endTime":1450289384674,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":20,"model":"stels navigator 500","number":"43","numberFrame":"xl 11 0032956","serverId":"91","state":4,"count_rent":427},"isCompleted":1,"token":"8693460121370371450285560719","paidFine":0,"startTime":1450285784674,"surcharge":500}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":600,"blackList":0},"endTime":1450290496033,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":15,"model":"","number":"801","numberFrame":"","serverId":"47","state":4,"count_rent":3},"isCompleted":1,"token":"8693460121370371450286941477","serverId":"38875","paidFine":0,"startTime":0,"surcharge":500}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2574,"blackList":0},"endTime":1450291049128,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":15,"model":"","number":"804","numberFrame":"","serverId":"50","state":1,"count_rent":1},"isCompleted":0,"token":"8693460121370371450287315336","paidFine":0,"startTime":1450287449128,"surcharge":50}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2674,"blackList":0},"endTime":1450291049128,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":15,"model":"","number":"804","numberFrame":"","serverId":"50","state":4,"count_rent":2},"isCompleted":1,"token":"8693460121370371450287591048","serverId":"38876","paidFine":0,"startTime":0,"surcharge":100}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":1100,"blackList":0},"endTime":1450289384674,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":20,"model":"stels navigator 500","number":"43","numberFrame":"xl 11 0032956","serverId":"91","state":4,"count_rent":427},"isCompleted":1,"token":"8693460121370371450287591038","serverId":"38874","paidFine":0,"startTime":0,"surcharge":500}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9198785475","serverId":"DC02275F-EA5E-AD07-3E75-DCF7B8","summ":0,"blackList":0},"endTime":1450291284575,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":20,"model":"stels navigator 610","number":"139","numberFrame":"XL13KO31915","serverId":"77","state":1,"count_rent":27},"isCompleted":0,"token":"8693460121370371450287637256","paidFine":0,"startTime":1450287684575,"surcharge":20}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9198785475","serverId":"DC02275F-EA5E-AD07-3E75-DCF7B8","summ":500,"blackList":0},"endTime":1450291284575,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":20,"model":"stels navigator 610","number":"139","numberFrame":"XL13KO31915","serverId":"77","state":4,"count_rent":28},"isCompleted":1,"token":"8693460121370371450293120940","serverId":"38877","paidFine":0,"startTime":0,"surcharge":500}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":1655,"blackList":0},"endTime":1450289384674,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":20,"model":"stels navigator 500","number":"43","numberFrame":"xl 11 0032956","serverId":"91","state":4,"count_rent":428},"isCompleted":1,"token":"8693460121370371450293120913","serverId":"38873","paidFine":0,"startTime":0,"surcharge":555}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":2210,"blackList":0},"endTime":1450289384674,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":20,"model":"stels navigator 500","number":"43","numberFrame":"xl 11 0032956","serverId":"91","state":4,"count_rent":429},"isCompleted":1,"token":"8693460121370371450293345362","serverId":"38872","paidFine":0,"startTime":0,"surcharge":555}
+338
+338
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":2674,"blackList":0},"endTime":1450297692877,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":1,"count_rent":220},"isCompleted":0,"token":"8693460121370371450294042899","paidFine":0,"startTime":1450294092877,"surcharge":25}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3074,"blackList":0},"endTime":1450297692877,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":221},"isCompleted":1,"token":"8693460121370371450294042899","serverId":"0E8A524C-2ADA-FCFA-8A57-52C9638B9CA9}","paidFine":0,"startTime":1450294092877,"surcharge":400}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3174,"blackList":0},"endTime":1450297692877,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":221},"isCompleted":1,"token":"8693460121370371450295556903","serverId":"38878","paidFine":0,"startTime":0,"surcharge":500}
+338
+338
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3174,"blackList":0},"endTime":1450301682654,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":1,"count_rent":221},"isCompleted":0,"token":"8693460121370371450298041461","paidFine":0,"startTime":1450298082654,"surcharge":20}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3224,"blackList":0},"endTime":1450301682654,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":222},"isCompleted":1,"token":"8693460121370371450298041461","serverId":"B63C7F1E-85A3-398A-9A52-39829CFC937A}","paidFine":0,"startTime":1450298082654,"surcharge":50}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3274,"blackList":0},"endTime":1450301682654,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":222},"isCompleted":1,"token":"8693460121370371450298419037","serverId":"38879","paidFine":0,"startTime":0,"surcharge":100}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":2210,"blackList":0},"endTime":1450302139130,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"4","numberFrame":"ibdfsd12k5552","serverId":"123","state":1,"count_rent":138},"isCompleted":0,"token":"8693460121370371450298489726","paidFine":0,"startTime":1450298539130,"surcharge":20}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":2260,"blackList":0},"endTime":1450302139130,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"4","numberFrame":"ibdfsd12k5552","serverId":"123","state":4,"count_rent":139},"isCompleted":1,"token":"8693460121370371450298489726","serverId":"10506B3C-58E4-05BF-EDCE-6903CE4C1FD5}","paidFine":0,"startTime":1450298539130,"surcharge":50}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":2260,"blackList":0},"endTime":1450302139130,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"4","numberFrame":"ibdfsd12k5552","serverId":"123","state":4,"count_rent":139},"isCompleted":1,"token":"8693460121370371450298688669","serverId":"38880","paidFine":0,"startTime":0,"surcharge":50}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3224,"blackList":0},"endTime":1450301682654,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":222},"isCompleted":1,"token":"8693460121370371450298688648","serverId":"38879","paidFine":0,"startTime":0,"surcharge":50}
+338
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3224,"blackList":0},"endTime":1450301682654,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":222},"isCompleted":1,"token":"8693460121370371450298942791","serverId":"38879","paidFine":0,"startTime":0,"surcharge":50}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":2260,"blackList":0},"endTime":1450302139130,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"4","numberFrame":"ibdfsd12k5552","serverId":"123","state":4,"count_rent":139},"isCompleted":1,"token":"8693460121370371450298942814","serverId":"38880","paidFine":0,"startTime":0,"surcharge":50}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9381279785","serverId":"5BDEE409-D029-3A98-EE1E-6CA145","summ":2260,"blackList":0},"endTime":1450302139130,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"4","numberFrame":"ibdfsd12k5552","serverId":"123","state":4,"count_rent":139},"isCompleted":1,"token":"8693460121370371450299043096","serverId":"38880","paidFine":0,"startTime":0,"surcharge":50}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3174,"blackList":0},"endTime":1450306224168,"inventory":{"tarif":{"name":"","sumDay":150,"sumHour":50,"sumTsHour":350},"idGroup":1,"idParent":20,"model":"stels navigator 850","number":"40","numberFrame":"xl12s086867","serverId":"102","state":1,"count_rent":209},"isCompleted":0,"token":"8693460121370371450299980222","paidFine":0,"startTime":1450302564168,"surcharge":20}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3224,"blackList":0},"endTime":1450306224168,"inventory":{"tarif":{"name":"","sumDay":150,"sumHour":50,"sumTsHour":350},"idGroup":1,"idParent":20,"model":"stels navigator 850","number":"40","numberFrame":"xl12s086867","serverId":"102","state":4,"count_rent":210},"isCompleted":1,"token":"8693460121370371450299980222","serverId":"17E7376C-07A5-E5BE-83E3-532F64C0EBCF}","paidFine":0,"startTime":1450302564168,"surcharge":50}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3224,"blackList":0},"endTime":1450401140120,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":20,"model":"stels navigator 500","number":"43","numberFrame":"xl 11 0032956","serverId":"91","state":1,"count_rent":429},"isCompleted":0,"token":"8693460121370371450304335505","paidFine":0,"startTime":1450311140120,"surcharge":200}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3824,"blackList":0},"endTime":1450401140120,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":20,"model":"stels navigator 500","number":"43","numberFrame":"xl 11 0032956","serverId":"91","state":4,"count_rent":430},"isCompleted":1,"token":"8693460121370371450304335505","serverId":"B1163748-2444-E7C2-E650-FAF2A09D096F}","paidFine":0,"startTime":1450311140120,"surcharge":600}
+338
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3824,"blackList":0},"endTime":1450314999974,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":1,"count_rent":221},"isCompleted":0,"token":"8693460121370371450311356517","paidFine":0,"startTime":1450311399974,"surcharge":20}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3874,"blackList":0},"endTime":1450314999974,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":222},"isCompleted":1,"token":"8693460121370371450311536643","serverId":"38883","paidFine":0,"startTime":0,"surcharge":50}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3882,"blackList":0},"endTime":1450314999974,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":222},"isCompleted":1,"token":"8693460121370371450311734386","serverId":"38883","paidFine":0,"startTime":0,"surcharge":58}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":3882,"blackList":0},"endTime":1450315614374,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Sibvelz","number":"13","numberFrame":"tj0920251","serverId":"131","state":1,"count_rent":24},"isCompleted":0,"token":"8693460121370371450311968255","paidFine":0,"startTime":1450312014374,"surcharge":50}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":4032,"blackList":0},"endTime":1450315614374,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Sibvelz","number":"13","numberFrame":"tj0920251","serverId":"131","state":4,"count_rent":25},"isCompleted":1,"token":"8693460121370371450311968255","serverId":"86527B7E-74F7-CD13-5548-50BA97EB6C90}","paidFine":0,"startTime":1450312014374,"surcharge":150}
+338
+338
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":4032,"blackList":0},"endTime":1450315940918,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":1,"count_rent":221},"isCompleted":0,"token":"8693460121370371450312302209","paidFine":0,"startTime":1450312340918,"surcharge":20}
+338
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9889464785","serverId":"56F379A3-D18D-87CB-25BD-38B485","summ":4082,"blackList":0},"endTime":1450315940918,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":222},"isCompleted":1,"token":"8693460121370371450312394109","serverId":"A12C42A9-9CB2-D402-8CE8-E711A56CDA7D}","paidFine":0,"startTime":0,"surcharge":50}
+338
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+338
+338
+Inventory PUT: {"tarif":{"sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"4","numberFrame":"ibdfsd12k5552","serverId":"123","state":4,"count_rent":138}
+0
+0
+0
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":7,"model":"BlackFire","number":"","numberFrame":"44","serverId":"326","state":4,"count_rent":19}
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":7,"model":"BlackFire","number":"","numberFrame":"44","serverId":"326","state":4,"count_rent":19}
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"1","numberFrame":"snmng11m87416","serverId":"119","state":4,"count_rent":321}
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"2","numberFrame":"snmng11m87447","serverId":"120","state":4,"count_rent":190}
+Inventory PUT: {"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":4,"count_rent":45}
+0
+0
+0
+Inventory PUT: {"avatar":"files/images/1452525008.jpg","tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"1","numberFrame":"snmng11m87416","serverId":"119","state":4,"count_rent":321}
+Inventory PUT: {"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Kross level A2","number":"186","numberFrame":"LY2A011914 (EN14766)","serverId":"262","state":2,"count_rent":94}
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Inventory PUT: {"tarif":{"name":"","sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":4,"count_rent":7}
+Inventory PUT: {"tarif":{"name":"","sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":4,"count_rent":7}
+0
+0
+Inventory PUT: {"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":6,"model":"blackfire (с-bf)","number":"","numberFrame":"157","serverId":"316","state":4,"count_rent":24}
+0
+0
+0
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"лесняк ксения владимеровна","phone":"9286086148","serverId":"7B1D9BF5-D6BE-A5BB-1999-8A084B","summ":0,"blackList":0},"endTime":1453165391385,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Trek alpha 3900","number":"134","numberFrame":"WTU 022C0015A","serverId":"221","state":1,"count_rent":207},"isCompleted":0,"token":"3597010501914851453158212196","paidFine":0,"startTime":1453158251385,"surcharge":50}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"лесняк ксения владимеровна","phone":"9286086148","serverId":"7B1D9BF5-D6BE-A5BB-1999-8A084B","summ":50,"blackList":0},"endTime":1453165391385,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Trek alpha 3900","number":"134","numberFrame":"WTU 022C0015A","serverId":"221","state":4,"count_rent":208},"isCompleted":1,"token":"3597010501914851453158212196","serverId":"0065A988-84D3-52DA-4BE1-020613418ACA}","paidFine":0,"startTime":1453158251385,"surcharge":50}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"ивпнская екатерина владими","phone":"9885861147","serverId":"80E227E8-D16F-ADDE-747E-51DC94","summ":0,"blackList":0},"endTime":1453245036575,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":20,"model":"Schwinn Streamliner ","number":"113","numberFrame":"","serverId":"106","state":1,"count_rent":42},"isCompleted":0,"token":"3597010501914851453158590675","paidFine":0,"startTime":1453158636575,"surcharge":300}
+0
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"1","numberFrame":"snmng11m87416","serverId":"119","state":4,"count_rent":321}
+Inventory PUT: {"avatar":"files/images/1453287556.jpg","tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"1","numberFrame":"snmng11m87416","serverId":"119","state":4,"count_rent":321}
+Inventory PUT: {"avatar":"files/images/1453287556.jpg","tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"1","numberFrame":"snmng11m87416","serverId":"119","state":4,"count_rent":321}
+0
+0
+0
+0
+0
+0
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"2","numberFrame":"snmng11m87447","serverId":"120","state":4,"count_rent":190}
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"2","numberFrame":"snmng11m87447","serverId":"120","state":1,"count_rent":190}
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"2","numberFrame":"snmng11m87447","serverId":"120","state":1,"count_rent":190}
+0
+0
+0
+0
+0
+0
+0
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"2","numberFrame":"snmng11m87447","serverId":"120","state":1,"count_rent":190}
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"2","numberFrame":"snmng11m87447","serverId":"120","state":1,"count_rent":190}
+0
+0
+0
+0
+0
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"ивпнская екатерина владими","phone":"9885861147","serverId":"80E227E8-D16F-ADDE-747E-51DC94","summ":300,"blackList":0},"endTime":1453245036575,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":20,"model":"Schwinn Streamliner ","number":"113","numberFrame":"","serverId":"106","state":4,"count_rent":43},"isCompleted":1,"token":"3597010501914851453158590675","serverId":"69FC8CCA-B2CE-A9E7-E765-2431642BFBEA}","paidFine":0,"startTime":1453158636575,"surcharge":300}
+0
+0
+0
+0
+0
+0
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"лесняк ксения владимеровна","phone":"9286086148","serverId":"7B1D9BF5-D6BE-A5BB-1999-8A084B","summ":50,"blackList":0},"endTime":1453406095771,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Sibvelz","number":"19","numberFrame":"pl1105035297","serverId":"137","state":1,"count_rent":61},"isCompleted":0,"token":"3597010501914851453384455774","paidFine":0,"startTime":1453384495771,"surcharge":900}
+338
+338
+338
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9081779557","serverId":"88BB1987-829E-7416-4AFA-E1B50E","summ":0,"blackList":0},"endTime":1453914788783,"inventory":{"tarif":{"name":"","sumDay":150,"sumHour":50,"sumTsHour":350},"idGroup":1,"idParent":20,"model":"nordway uptown","number":"62","numberFrame":"k60739886","serverId":"94","state":1,"count_rent":14},"isCompleted":0,"token":"8693460121370371453911002350","paidFine":0,"startTime":1453911068783,"surcharge":20}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9081779557","serverId":"88BB1987-829E-7416-4AFA-E1B50E","summ":50,"blackList":0},"endTime":1453914788783,"inventory":{"tarif":{"name":"","sumDay":150,"sumHour":50,"sumTsHour":350},"idGroup":1,"idParent":20,"model":"nordway uptown","number":"62","numberFrame":"k60739886","serverId":"94","state":4,"count_rent":15},"isCompleted":1,"token":"8693460121370371453911002350","serverId":"2D96953D-5C7F-186D-19DA-BA76504C9681}","paidFine":0,"startTime":1453911068783,"surcharge":50}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9081779557","serverId":"88BB1987-829E-7416-4AFA-E1B50E","summ":50,"blackList":0},"endTime":1453914863409,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":20,"model":"stels navigator 810","number":"41","numberFrame":"xl 12c087120","serverId":"69","state":1,"count_rent":107},"isCompleted":0,"token":"8693460121370371453911103124","paidFine":0,"startTime":1453911143409,"surcharge":50}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9081779557","serverId":"88BB1987-829E-7416-4AFA-E1B50E","summ":150,"blackList":0},"endTime":1453914863409,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":20,"model":"stels navigator 810","number":"41","numberFrame":"xl 12c087120","serverId":"69","state":4,"count_rent":108},"isCompleted":1,"token":"8693460121370371453911103124","serverId":"CD785164-7F84-7CB4-C531-03F88BE082B3}","paidFine":0,"startTime":1453911143409,"surcharge":100}
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"лесняк ксения владимеровна","phone":"9286086148","serverId":"7B1D9BF5-D6BE-A5BB-1999-8A084B","summ":50,"blackList":0},"endTime":1453927464468,"inventory":{"tarif":{"name":"","sumDay":1000,"sumHour":300,"sumTsHour":1500},"idGroup":1,"idParent":1,"model":"Bergamont vitox 5.3","number":"34","numberFrame":"aa21024362","serverId":"149","state":1,"count_rent":765},"isCompleted":0,"token":"3597010501914851453923776736","paidFine":0,"startTime":1453923864468,"surcharge":300}
+0
+0
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"дегтерев артем русланович","phone":"9896291536","serverId":"88279FC5-9C29-A6C9-993E-EDB6B5","summ":0,"blackList":0},"endTime":1453942573763,"inventory":{"tarif":{"name":"","sumDay":500,"sumHour":100,"sumTsHour":700},"idGroup":1,"idParent":1,"model":"Stels  NАVIGATOR ","number":"123","numberFrame":"ZO12724413","serverId":"212","state":1,"count_rent":32},"isCompleted":0,"token":"3597010501914851453931749209","paidFine":0,"startTime":1453931833763,"surcharge":100}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"дегтерев артем русланович","phone":"9896291536","serverId":"88279FC5-9C29-A6C9-993E-EDB6B5","summ":200,"blackList":0},"endTime":1453942573763,"inventory":{"tarif":{"name":"","sumDay":500,"sumHour":100,"sumTsHour":700},"idGroup":1,"idParent":1,"model":"Stels  NАVIGATOR ","number":"123","numberFrame":"ZO12724413","serverId":"212","state":4,"count_rent":33},"isCompleted":1,"token":"3597010501914851453931749209","serverId":"A7D7F15E-3E18-B4A3-D5F8-8BFBB25C4CFD}","paidFine":0,"startTime":1453931833763,"surcharge":200}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"лесняк ксения владимеровна","phone":"9286086148","serverId":"7B1D9BF5-D6BE-A5BB-1999-8A084B","summ":2900,"blackList":0},"endTime":1453406095771,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Sibvelz","number":"19","numberFrame":"pl1105035297","serverId":"137","state":4,"count_rent":62},"isCompleted":1,"token":"3597010501914851453923721263","serverId":"439251DD-EBB3-E1CF-3F0B-B57DD1A33964}","paidFine":0,"startTime":0,"surcharge":2850}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"лесняк ксения владимеровна","phone":"9286086148","serverId":"7B1D9BF5-D6BE-A5BB-1999-8A084B","summ":3200,"blackList":0},"endTime":1453927464468,"inventory":{"tarif":{"name":"","sumDay":1000,"sumHour":300,"sumTsHour":1500},"idGroup":1,"idParent":1,"model":"Bergamont vitox 5.3","number":"34","numberFrame":"aa21024362","serverId":"149","state":4,"count_rent":766},"isCompleted":1,"token":"3597010501914851453923776736","serverId":"9B02FA64-6CC9-3FFF-96FB-20BA643A21DF}","paidFine":0,"startTime":1453923864468,"surcharge":300}
+Inventory PUT: {"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Kross level A2","number":"186","numberFrame":"LY2A011914 (EN14766)","serverId":"262","state":4,"count_rent":94}
+Inventory PUT: {"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Kross level A2","number":"186","numberFrame":"LY2A011914 (EN14766)","serverId":"262","state":4,"count_rent":94}
+Inventory PUT: {"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Kross level A2","number":"186","numberFrame":"LY2A011914 (EN14766)","serverId":"262","state":4,"count_rent":94}
+338
+0
+0
+0
+0
+0
+0
+338
+Inventory PUT: {"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":2,"count_rent":45}
+338
+338
+0
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"востриков максим Вячеславо","phone":"9896284453","serverId":"D616B86C-DC41-AB96-A431-F0837B","summ":0,"blackList":0},"endTime":1454592952019,"inventory":{"tarif":{"name":"","sumDay":150,"sumHour":50,"sumTsHour":350},"idGroup":1,"idParent":20,"model":"stels navigator 500","number":"51","numberFrame":"li 101201893","serverId":"70","state":1,"count_rent":23},"isCompleted":0,"token":"3597010501914851454667914004","paidFine":0,"startTime":1454668132019,"surcharge":200}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"востриков максим Вячеславо","phone":"9896284453","serverId":"D616B86C-DC41-AB96-A431-F0837B","summ":200,"blackList":0},"endTime":1454592952019,"inventory":{"tarif":{"name":"","sumDay":150,"sumHour":50,"sumTsHour":350},"idGroup":1,"idParent":20,"model":"stels navigator 500","number":"51","numberFrame":"li 101201893","serverId":"70","state":4,"count_rent":24},"isCompleted":1,"token":"3597010501914851454667914004","serverId":"69F521FC-555E-37A6-921D-3A566156E1B1}","paidFine":0,"startTime":1454668132019,"surcharge":200}
+{"client":{"avatar":"N/A","vipNumber":"100799","name":"100799","phone":"9198868123","serverId":"E438CD0A-F491-2A21-4AF7-8A65A1","summ":0,"blackList":0},"endTime":1454582378453,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"giant snap","number":"57","numberFrame":"c12a6763","serverId":"166","state":1,"count_rent":434},"isCompleted":0,"token":"3597010501914851454668553483","paidFine":0,"startTime":1454668778453,"surcharge":0}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"100799","name":"100799","phone":"9198868123","serverId":"E438CD0A-F491-2A21-4AF7-8A65A1","summ":0,"blackList":0},"endTime":1454582378453,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"giant snap","number":"57","numberFrame":"c12a6763","serverId":"166","state":4,"count_rent":435},"isCompleted":1,"token":"3597010501914851454668553483","serverId":"E567C9AF-7E91-560A-B4EB-80310147E9F8}","paidFine":0,"startTime":1454668778453,"surcharge":0}
+{"client":{"avatar":"N/A","vipNumber":"100893","name":"татаренко юлия михайловна","phone":"9034859046","serverId":"7C11C803-1DA3-6581-99D8-510C5B","summ":0,"blackList":0},"endTime":1454680916407,"inventory":{"tarif":{"name":"Gopro 3+","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"stels navigator 500","number":"45","numberFrame":"xl 11603224","serverId":"156","state":1,"count_rent":250},"isCompleted":0,"token":"3597010501914851454669888435","paidFine":0,"startTime":1454670116407,"surcharge":300}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"100893","name":"татаренко юлия михайловна","phone":"9034859046","serverId":"7C11C803-1DA3-6581-99D8-510C5B","summ":300,"blackList":0},"endTime":1454680916407,"inventory":{"tarif":{"name":"Gopro 3+","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"stels navigator 500","number":"45","numberFrame":"xl 11603224","serverId":"156","state":4,"count_rent":251},"isCompleted":1,"token":"3597010501914851454669888435","serverId":"EEF857BE-ADD5-7F2E-87BD-FDA9A6E0C4A9}","paidFine":0,"startTime":1454670116407,"surcharge":300}
+{"client":{"vipNumber":"N/A","surname":"соболева","name":"анна","phone":"9289888997","summ":0,"blackList":0},"endTime":1454685215492,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Bergamont vitox 5.3","number":"37","numberFrame":"aa26024887","serverId":"152","state":1,"count_rent":707},"isCompleted":0,"token":"3597010501914851454677791548","paidFine":0,"startTime":1454678015492,"surcharge":200}
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"","phone":"9034067728","serverId":"FCD3D390-EA5D-5342-3D2F-5EE35E","summ":0,"blackList":0},"endTime":1458040452491,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":15,"model":"","number":"801","numberFrame":"","serverId":"47","state":1,"count_rent":3},"isCompleted":0,"token":"8627840228164701458036773955","paidFine":0,"startTime":1458036852491,"surcharge":300}
+Inventory PUT: {"avatar":"files/images/1458548168.jpg","tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":2,"count_rent":45}
+338
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"2","numberFrame":"snmng11m87447","serverId":"120","state":4,"count_rent":190}
+Inventory PUT: {"avatar":"files/images/1458548168.jpg","tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":4,"count_rent":45}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"анна","phone":"9289888997","serverId":"198BCCE8-A3D6-7BAD-6235-C11719","summ":300,"blackList":0},"endTime":1454685215492,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Bergamont vitox 5.3","number":"37","numberFrame":"aa26024887","serverId":"152","state":4,"count_rent":708},"isCompleted":1,"token":"3597010551483241458558963327","serverId":"06E5207E-DF38-F486-7C91-B71EFEF25DE5}","paidFine":0,"startTime":0,"surcharge":300}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"㳱墠䬨򰨩 ⫠䨬谮⨷","phone":"9034067728","serverId":"FCD3D390-EA5D-5342-3D2F-5EE35E","summ":300,"blackList":0},"endTime":1458040452491,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":15,"model":"","number":"801","numberFrame":"","serverId":"47","state":4,"count_rent":4},"isCompleted":1,"token":"3597010551483241458558963331","serverId":"A8134B8B-4EBA-1C9B-7FA7-090C342CAA3D}","paidFine":0,"startTime":0,"surcharge":300}
+{"client":{"avatar":"files/images/1458582904.jpg","vipNumber":"N/A","surname":"ufufiv","name":"jgjvj","phone":"9034061044","summ":0,"blackList":1},"endTime":1458683679962,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":3,"model":"maxAmigo","number":"619","numberFrame":"38-41","serverId":"27","state":1,"count_rent":51},"isCompleted":0,"token":"3597010551483241458593623646","paidFine":0,"startTime":1458593679962,"surcharge":300}
+Inventory PUT: {"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"stels navigator 610","number":"99","numberFrame":"XL13L051928","serverId":"195","state":2,"count_rent":212}
+{"client":{"avatar":"files/images/1458652536.jpg","vipNumber":"N/A","surname":"даронь","name":"владимир","phone":"9604660100","summ":0,"blackList":0},"endTime":1458670535116,"inventory":{"tarif":{"name":"","sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":1,"count_rent":7},"isCompleted":0,"token":"3597010551483241458663225926","paidFine":0,"startTime":1458663335116,"surcharge":200}
+PUT RENT {"client":{"avatar":"files/images/1458652536.jpg","vipNumber":"N/A","surname":"даронь","name":"владимир","phone":"9604660100","summ":0,"blackList":0},"endTime":1458670535116,"inventory":{"tarif":{"name":"","sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":4,"count_rent":8},"isCompleted":1,"token":"3597010551483241458663225926","serverId":"2685FC38-D50A-7AA4-3F99-C6C6FF130F09}","paidFine":0,"startTime":1458663335116,"surcharge":0}
+PUT RENT {"client":{"avatar":"files/images/1458652536.jpg","vipNumber":"N/A","surname":"даронь","name":"владимир","phone":"9604660100","summ":0,"blackList":0},"endTime":1458670535116,"inventory":{"tarif":{"name":"","sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":4,"count_rent":9},"isCompleted":1,"token":"3597010551483241458663225926","serverId":"2685FC38-D50A-7AA4-3F99-C6C6FF130F09}","paidFine":0,"startTime":1458663335116,"surcharge":0}
+PUT RENT {"client":{"avatar":"files/images/1458652536.jpg","vipNumber":"N/A","surname":"даронь","name":"владимир","phone":"9604660100","summ":1,"blackList":0},"endTime":1458670535116,"inventory":{"tarif":{"name":"","sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":4,"count_rent":10},"isCompleted":1,"token":"3597010551483241458663225926","serverId":"2685FC38-D50A-7AA4-3F99-C6C6FF130F09}","paidFine":0,"startTime":1458663335116,"surcharge":1}
+PUT RENT {"client":{"avatar":"files/images/1458652536.jpg","vipNumber":"N/A","surname":"даронь","name":"владимир","phone":"9604660100","summ":101,"blackList":0},"endTime":1458670535116,"inventory":{"tarif":{"name":"","sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":4,"count_rent":11},"isCompleted":1,"token":"3597010551483241458663225926","serverId":"2685FC38-D50A-7AA4-3F99-C6C6FF130F09}","paidFine":0,"startTime":1458663335116,"surcharge":100}
+PUT RENT {"client":{"avatar":"files/images/1458652536.jpg","vipNumber":"N/A","surname":"даронь","name":"владимир","phone":"9604660100","summ":301,"blackList":0},"endTime":1458670535116,"inventory":{"tarif":{"name":"","sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":4,"count_rent":12},"isCompleted":1,"token":"3597010551483241458663225926","serverId":"2685FC38-D50A-7AA4-3F99-C6C6FF130F09}","paidFine":0,"startTime":1458663335116,"surcharge":200}
+PUT RENT {"client":{"avatar":"files/images/1458652536.jpg","vipNumber":"N/A","surname":"даронь","name":"владимир","phone":"9604660100","summ":501,"blackList":0},"endTime":1458670535116,"inventory":{"tarif":{"name":"","sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":4,"count_rent":13},"isCompleted":1,"token":"3597010551483241458663225926","serverId":"2685FC38-D50A-7AA4-3F99-C6C6FF130F09}","paidFine":0,"startTime":1458663335116,"surcharge":200}
+338
+338
+338
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"1","numberFrame":"snmng11m87416","serverId":"119","state":3,"count_rent":321}
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"1","numberFrame":"snmng11m87416","serverId":"119","state":3,"count_rent":321}
+Inventory PUT: {"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"2","numberFrame":"snmng11m87447","serverId":"120","state":2,"count_rent":190}
+PUT RENT {"client":{"avatar":"files/images/1458652536.jpg","vipNumber":"N/A","name":"владимир","phone":"9604660100","serverId":"3E426A37-FCC9-1F67-5694-476CA9","summ":100,"blackList":0},"endTime":1458670535116,"inventory":{"tarif":{"name":"","sumDay":100,"sumHour":100,"sumTsHour":120},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"12","numberFrame":"c12l3766","serverId":"130","state":4,"count_rent":8},"isCompleted":1,"token":"3597010551483241459040669342","serverId":"2685FC38-D50A-7AA4-3F99-C6C6FF130F09}","paidFine":0,"startTime":0,"surcharge":100}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"безусова катерина алексеев","phone":"9034066132","serverId":"5EE0586B-9D52-A87B-9397-FEA5E2","summ":0,"blackList":0},"endTime":1459305400794,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"121","numberFrame":"CM13L547391","serverId":"210","state":1,"count_rent":113},"isCompleted":0,"token":"3597010551483241459042445481","paidFine":0,"startTime":1459042600794,"surcharge":7000}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"безусова катерина алексеев","phone":"9034066132","serverId":"5EE0586B-9D52-A87B-9397-FEA5E2","summ":0,"blackList":0},"endTime":1459305400794,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":600},"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"121","numberFrame":"CM13L547391","serverId":"210","state":4,"count_rent":114},"isCompleted":1,"token":"3597010551483241459042445481","serverId":"DE1A9CC5-291E-B8FF-A5C8-14FFB0D17464}","paidFine":0,"startTime":1459042600794,"surcharge":0}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"N/A","phone":"9034895949","serverId":"99E1D057-AED5-9CDF-1EA5-DA3F19","summ":0,"blackList":0},"endTime":1459060831850,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":20,"model":"stels navigator 610","number":"140","numberFrame":"XL13KO31414","serverId":"78","state":1,"count_rent":23},"isCompleted":0,"token":"3597010551483241459042738612","paidFine":0,"startTime":1459042831850,"surcharge":1}
+Inventory PUT: {"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":1,"count_rent":45}
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"мухтарьян карентсуренович","phone":"9034067070","serverId":"63BEC588-F0E2-32E0-C6F4-A62EA0","summ":0,"blackList":0},"endTime":1459068442919,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":1,"count_rent":222},"isCompleted":0,"token":"3597010551483241459043184943","paidFine":0,"startTime":1459043302919,"surcharge":300}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"мухтарьян карентсуренович","phone":"9034067070","serverId":"63BEC588-F0E2-32E0-C6F4-A62EA0","summ":0,"blackList":0},"endTime":1459068442919,"inventory":{"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500},"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"count_rent":223},"isCompleted":1,"token":"3597010551483241459043184943","serverId":"C11B850A-033D-E0C9-DD79-FA5CF1A1939E}","paidFine":0,"startTime":1459043302919,"surcharge":0}
+338
+338
+Inventory PUT: {"count_rent":190,"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"2","numberFrame":"snmng11m87447","serverId":"120","state":2,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}}
+338
+{"client":{"avatar":"N/A","vipNumber":"N/A","name":"Велопрокат","phone":"9034064326","serverId":"B9E5BEF9-79E1-091A-BD4C-0651C6","summ":0,"blackList":0},"endTime":1459371356046,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"10","numberFrame":"c12l3778","serverId":"128","state":1,"count_rent":192},"isCompleted":0,"token":"3597010551483241459363978052","paidFine":0,"startTime":1459364216046,"surcharge":100}
+PUT RENT {"client":{"avatar":"N/A","vipNumber":"N/A","name":"Велопрокат","phone":"9034064326","serverId":"B9E5BEF9-79E1-091A-BD4C-0651C6","summ":50,"blackList":0},"endTime":1459371356046,"inventory":{"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800},"idGroup":1,"idParent":1,"model":"Giant Single Simple","number":"10","numberFrame":"c12l3778","serverId":"128","state":4,"count_rent":193},"isCompleted":1,"token":"3597010551483241459363978052","serverId":"5E335E63-AEB8-BD8A-36C2-5AD25572E68E}","paidFine":0,"startTime":1459364216046,"surcharge":50}
+PUT RENT {"client":{"avatar":"files/images/1458582904.jpg","vipNumber":"N/A","name":"jgjvj","phone":"9034061044","serverId":"A6B13004-A5B5-DA11-02CC-20C922","summ":2100,"blackList":1},"endTime":1458683679962,"inventory":{"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500},"idGroup":1,"idParent":3,"model":"maxAmigo","number":"619","numberFrame":"38-41","serverId":"27","state":4,"count_rent":52},"isCompleted":1,"token":"3597010551483241459363556438","serverId":"946DE561-AA22-3BAB-C778-8C1F22C8B95E}","paidFine":0,"startTime":0,"surcharge":2100}
+338
+338
+338
+Inventory PUT: {"avatar":"files/images/1459605175.jpg","count_rent":321,"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"1","numberFrame":"snmng11m87416","serverId":"119","state":3,"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600}}
+Inventory PUT: {"avatar":"files/images/1459605175.jpg","count_rent":321,"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"1","numberFrame":"snmng11m87416","serverId":"119","state":3,"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600}}
+Inventory PUT: {"avatar":"files/images/1459605175.jpg","count_rent":321,"idGroup":1,"idParent":1,"model":"Schwinn Corvette ","number":"1","numberFrame":"snmng11m87416","serverId":"119","state":3,"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600}}
+Inventory PUT: {"count_rent":223,"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":3,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}}
+Inventory PUT: {"avatar":"files/images/1459606081.jpg","count_rent":138,"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"4","numberFrame":"ibdfsd12k5552","serverId":"123","state":4,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}}
+Inventory PUT: {"avatar":"files/images/1459606193.jpg","count_rent":223,"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":3,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}}
+Inventory PUT: {"avatar":"files/images/1459606193.jpg","count_rent":223,"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":3,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}}
+Inventory PUT: {"avatar":"files/images/1459606193.jpg","count_rent":223,"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":3,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}}
+Inventory PUT: {"count_rent":138,"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"4","numberFrame":"ibdfsd12k5552","serverId":"123","state":2,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}}
+338
+338
+338
+Inventory PUT: {"count_rent":223,"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}}
+Inventory PUT: {"count_rent":45,"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":4,"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500}}
+338
+338
+338
+{"client":{"avatar":"N/A","blackList":0,"name":"эсмурзиев ислам магамедови","phone":"9381117968","serverId":"91D292F0-1F96-FEDC-49A9-197B27","summ":0,"vipNumber":"N/A"},"endTime":1459616610154,"inventory":{"count_rent":223,"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":1,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}},"isCompleted":0,"paidFine":0,"startTime":1459609410154,"surcharge":100,"token":"null1459609191259"}
+Inventory PUT: {"count_rent":2,"idGroup":1,"idParent":2,"model":"Скейтборд K","number":"502","numberFrame":"","serverId":"268","state":3,"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800}}
+Inventory PUT: {"count_rent":2,"idGroup":1,"idParent":2,"model":"Скейтборд K","number":"502","numberFrame":"","serverId":"268","state":2,"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800}}
+{"client":{"avatar":"N/A","blackList":1,"name":"дроздов никита алексеевич","phone":"9525833990","serverId":"12C5887D-4738-54E9-4B24-0E3F37","summ":0,"vipNumber":"N/A"},"endTime":1459614707846,"inventory":{"count_rent":45,"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":1,"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500}},"isCompleted":0,"paidFine":0,"startTime":1459611107846,"surcharge":25,"token":"null1459610979995"}
+PUT RENT {"client":{"avatar":"N/A","blackList":1,"name":"дроздов никита алексеевич","phone":"9525833990","serverId":"12C5887D-4738-54E9-4B24-0E3F37","summ":100,"vipNumber":"N/A"},"endTime":1459614707846,"inventory":{"count_rent":46,"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":4,"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500}},"isCompleted":1,"paidFine":0,"serverId":"0FF18201-875E-5837-6540-F9552D38444F}","startTime":1459611107846,"surcharge":100,"token":"null1459610979995"}
+{"client":{"avatar":"N/A","blackList":0,"name":"N/A","phone":"9081779557","serverId":"88BB1987-829E-7416-4AFA-E1B50E","summ":150,"vipNumber":"N/A"},"endTime":1459620032444,"inventory":{"count_rent":46,"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":1,"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500}},"isCompleted":0,"paidFine":0,"startTime":1459611392444,"surcharge":50,"token":"null1459611334595"}
+PUT RENT {"client":{"avatar":"N/A","blackList":0,"name":"N/A","phone":"9081779557","serverId":"88BB1987-829E-7416-4AFA-E1B50E","summ":200,"vipNumber":"N/A"},"endTime":1459620032444,"inventory":{"count_rent":47,"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":4,"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500}},"isCompleted":1,"paidFine":0,"serverId":"A8B51A3D-9BAD-168F-472B-CE837965B558}","startTime":1459611392444,"surcharge":50,"token":"null1459611334595"}
+{"client":{"avatar":"files/images/1459032880.jpg","blackList":0,"name":"N/Ajkhjj","phone":"9185883935","serverId":"120E1CA8-96FA-253E-AA5A-175CCB","summ":0,"vipNumber":"N/A"},"endTime":1459627218392,"inventory":{"count_rent":47,"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":1,"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500}},"isCompleted":0,"paidFine":0,"startTime":1459612818392,"surcharge":100,"token":"null1459611661245"}
+PUT RENT {"client":{"avatar":"files/images/1459032880.jpg","blackList":0,"name":"N/Ajkhjj","phone":"9185883935","serverId":"120E1CA8-96FA-253E-AA5A-175CCB","summ":30,"vipNumber":"N/A"},"endTime":1459627218392,"inventory":{"count_rent":48,"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":4,"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500}},"isCompleted":1,"paidFine":0,"serverId":"AE404843-7D68-A9C1-4559-DA5E62A89C54}","startTime":1459612818392,"surcharge":30,"token":"null1459611661245"}
+PUT RENT {"client":{"avatar":"files/images/1459032880.jpg","blackList":0,"name":"N/Ajkhjj","phone":"9185883935","serverId":"120E1CA8-96FA-253E-AA5A-175CCB","summ":60,"vipNumber":"N/A"},"endTime":1459627218392,"inventory":{"count_rent":49,"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":4,"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500}},"isCompleted":1,"paidFine":0,"serverId":"AE404843-7D68-A9C1-4559-DA5E62A89C54}","startTime":1459612818392,"surcharge":30,"token":"null1459611661245"}
+PUT RENT {"client":{"avatar":"N/A","blackList":0,"name":"эсмурзиев ислам магамедови","phone":"9381117968","serverId":"91D292F0-1F96-FEDC-49A9-197B27","summ":350,"vipNumber":"N/A"},"endTime":1459616610154,"inventory":{"count_rent":224,"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}},"isCompleted":1,"paidFine":0,"serverId":"98AC3A5D-CCF7-DDE4-EA83-D713D290682C}","startTime":0,"surcharge":350,"token":"null1459612970300"}
+{"client":{"avatar":"N/A","blackList":0,"name":"Александр Николаевич","phone":"9081768725","serverId":"79E154EA-188B-561F-5F58-C79935","summ":0,"vipNumber":"N/A"},"endTime":1459620043898,"inventory":{"count_rent":49,"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":1,"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500}},"isCompleted":0,"paidFine":0,"startTime":1459615063898,"surcharge":0,"token":"null1459615031982"}
+{"client":{"avatar":"N/A","blackList":0,"name":"Александр Николаевич","phone":"9081768725","serverId":"79E154EA-188B-561F-5F58-C79935","summ":0,"vipNumber":"N/A"},"endTime":1459620054196,"inventory":{"count_rent":0,"idGroup":1,"idParent":20,"model":"Schwinn Roadster tri","number":"109","numberFrame":"","serverId":"75","state":1,"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500}},"isCompleted":0,"paidFine":0,"startTime":1459615314196,"surcharge":200,"token":"null1459615285637"}
+338
+PUT RENT {"client":{"avatar":"N/A","blackList":0,"name":"Александр Николаевич","phone":"9081768725","serverId":"79E154EA-188B-561F-5F58-C79935","summ":300,"vipNumber":"N/A"},"endTime":1459620054196,"inventory":{"count_rent":1,"idGroup":1,"idParent":20,"model":"Schwinn Roadster tri","number":"109","numberFrame":"","serverId":"75","state":4,"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":500}},"isCompleted":1,"paidFine":0,"serverId":"79664021-527D-5ED7-98FF-8279D9E2DA14}","startTime":0,"surcharge":300,"token":"null1459617444038"}
+PUT RENT {"client":{"avatar":"N/A","blackList":0,"name":"N/A","phone":"9034895949","serverId":"99E1D057-AED5-9CDF-1EA5-DA3F19","summ":300,"vipNumber":"N/A"},"endTime":1459060831850,"inventory":{"count_rent":24,"idGroup":1,"idParent":20,"model":"stels navigator 610","number":"140","numberFrame":"XL13KO31414","serverId":"78","state":4,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}},"isCompleted":1,"paidFine":0,"serverId":"5D0B6476-5D44-28D5-7A5C-7DB70550255A}","startTime":0,"surcharge":300,"token":"null1459617457792"}
+Inventory PUT: {"count_rent":49,"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":4,"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500}}
+{"client":{"avatar":"N/A","blackList":0,"name":"джум яна вечеславрвна","phone":"9185739905","serverId":"8A1525F3-281D-A4E2-A1D3-4CB9AA","summ":0,"vipNumber":"N/A"},"endTime":1459633372564,"inventory":{"count_rent":0,"idGroup":1,"idParent":20,"model":"ТорнадоФ","number":"106","numberFrame":"","serverId":"84","state":1,"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600}},"isCompleted":0,"paidFine":0,"startTime":1459618972564,"surcharge":0,"token":"null1459618924090"}
+PUT RENT {"client":{"avatar":"N/A","blackList":0,"name":"джум яна вечеславрвна","phone":"9185739905","serverId":"8A1525F3-281D-A4E2-A1D3-4CB9AA","summ":400,"vipNumber":"N/A"},"endTime":1459633372564,"inventory":{"count_rent":1,"idGroup":1,"idParent":20,"model":"ТорнадоФ","number":"106","numberFrame":"","serverId":"84","state":4,"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600}},"isCompleted":1,"paidFine":0,"serverId":"5C104CC0-44F8-C0E9-FECD-C2CA4BD1190C}","startTime":1459618972564,"surcharge":400,"token":"null1459618924090"}
+Inventory PUT: {"avatar":"files/images/1459627777.jpg","count_rent":224,"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}}
+Inventory PUT: {"avatar":"files/images/1459627777.jpg","count_rent":224,"idGroup":1,"idParent":1,"model":"Schwinn Cruiser One","number":"3","numberFrame":"ibdfsd12k5520","serverId":"122","state":4,"tarif":{"name":"","sumDay":350,"sumHour":50,"sumTsHour":500}}
+PUT RENT {"client":{"avatar":"N/A","blackList":0,"name":"Александр Николаевич","phone":"9081768725","serverId":"79E154EA-188B-561F-5F58-C79935","summ":900,"vipNumber":"N/A"},"endTime":1459620043898,"inventory":{"count_rent":51,"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":4,"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500}},"isCompleted":1,"paidFine":0,"serverId":"3A520760-5E6F-62F3-14F6-5573FF668B22}","startTime":0,"surcharge":300,"token":"null1459630475709"}
+PUT RENT {"client":{"avatar":"N/A","blackList":0,"name":"Александр Николаевич","phone":"9081768725","serverId":"79E154EA-188B-561F-5F58-C79935","summ":900,"vipNumber":"N/A"},"endTime":1459620043898,"inventory":{"count_rent":51,"idGroup":1,"idParent":1,"model":"Schwinn Tango Tandem","number":"9","numberFrame":"cm13a503287","serverId":"121","state":4,"tarif":{"name":"","sumDay":300,"sumHour":50,"sumTsHour":500}},"isCompleted":1,"paidFine":0,"serverId":"3A520760-5E6F-62F3-14F6-5573FF668B22}","startTime":0,"surcharge":300,"token":"null1459630475709"}
+{"client":{"avatar":"N/A","blackList":0,"name":"чан виктория павловна","phone":"9281576111","serverId":"4B0CC104-B18C-1C23-552B-6CC135","summ":0,"vipNumber":"N/A"},"endTime":1459677653337,"inventory":{"count_rent":17,"idGroup":1,"idParent":20,"model":"next","number":"156","numberFrame":"A36970","serverId":"82","state":1,"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600}},"isCompleted":0,"paidFine":0,"startTime":1459630613336,"surcharge":0,"token":"null1459630514610"}
+{"client":{"avatar":"N/A","blackList":0,"name":"рустам рашидович шарипов","phone":"9286290679","serverId":"5C297823-D1B3-9BF6-004C-C25F86","summ":0,"vipNumber":"N/A"},"endTime":1459768065786,"inventory":{"count_rent":29,"idGroup":1,"idParent":1,"model":"Stels Navigator 340","number":"173","numberFrame":"XL13J038930","serverId":"250","state":1,"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600}},"isCompleted":0,"paidFine":0,"startTime":1459631265786,"surcharge":0,"token":"null1459631207061"}
+{"client":{"avatar":"N/A","blackList":0,"name":"харон бекханович мальсагоу","phone":"9281311390","serverId":"EED21718-A6EC-EC2D-DBB0-E098D5","summ":0,"vipNumber":"N/A"},"endTime":1459768540678,"inventory":{"count_rent":430,"idGroup":1,"idParent":20,"model":"stels navigator 500","number":"43","numberFrame":"xl 11 0032956","serverId":"91","state":1,"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800}},"isCompleted":0,"paidFine":0,"startTime":1459631380678,"surcharge":90,"token":"null1459631319606"}
+PUT RENT {"client":{"avatar":"N/A","blackList":0,"name":"рустам рашидович шарипов","phone":"9286290679","serverId":"5C297823-D1B3-9BF6-004C-C25F86","summ":200,"vipNumber":"N/A"},"endTime":1459768065786,"inventory":{"count_rent":30,"idGroup":1,"idParent":1,"model":"Stels Navigator 340","number":"173","numberFrame":"XL13J038930","serverId":"250","state":4,"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600}},"isCompleted":1,"paidFine":0,"serverId":"4B8341B4-6C6D-B477-AB12-89DEFBFF56E9}","startTime":1459631265786,"surcharge":200,"token":"null1459631207061"}
+PUT RENT {"client":{"avatar":"N/A","blackList":0,"name":"харон бекханович мальсагоу","phone":"9281311390","serverId":"EED21718-A6EC-EC2D-DBB0-E098D5","summ":200,"vipNumber":"N/A"},"endTime":1459768540678,"inventory":{"count_rent":431,"idGroup":1,"idParent":20,"model":"stels navigator 500","number":"43","numberFrame":"xl 11 0032956","serverId":"91","state":4,"tarif":{"name":"","sumDay":600,"sumHour":150,"sumTsHour":800}},"isCompleted":1,"paidFine":0,"serverId":"BA734068-9B2B-5C36-0A1F-A52D3A9B9A41}","startTime":1459631380678,"surcharge":200,"token":"null1459631319606"}
+PUT RENT {"client":{"avatar":"N/A","blackList":0,"name":"чан виктория павловна","phone":"9281576111","serverId":"4B0CC104-B18C-1C23-552B-6CC135","summ":11,"vipNumber":"N/A"},"endTime":1459677653337,"inventory":{"count_rent":18,"idGroup":1,"idParent":20,"model":"next","number":"156","numberFrame":"A36970","serverId":"82","state":4,"tarif":{"name":"","sumDay":350,"sumHour":100,"sumTsHour":600}},"isCompleted":1,"paidFine":0,"serverId":"A721F4AA-E47F-B496-2B8B-7052A96640B3}","startTime":0,"surcharge":11,"token":"null1459639340272"}
+{"client":{"avatar":"N/A","blackList":0,"name":"N/A","phone":"9198833579","serverId":"3B7B07E6-7732-06BC-28E6-08E444","summ":0,"vipNumber":"N/A"},"endTime":1459733108769,"inventory":{"count_rent":8,"idGroup":1,"idParent":1,"model":"Sibvelz","number":"22","numberFrame":"pl1105035582","serverId":"139","state":1,"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":600}},"isCompleted":0,"paidFine":0,"startTime":1459639508769,"surcharge":0,"token":"null1459639481542"}
+PUT RENT {"client":{"avatar":"N/A","blackList":0,"name":"N/A","phone":"9198833579","serverId":"3B7B07E6-7732-06BC-28E6-08E444","summ":17,"vipNumber":"N/A"},"endTime":1459733108769,"inventory":{"count_rent":9,"idGroup":1,"idParent":1,"model":"Sibvelz","number":"22","numberFrame":"pl1105035582","serverId":"139","state":4,"tarif":{"name":"","sumDay":300,"sumHour":100,"sumTsHour":600}},"isCompleted":1,"paidFine":0,"serverId":"F9513B89-C5F1-DF0F-CBAC-C4D2171522A2}","startTime":1459639508769,"surcharge":17,"token":"null1459639481542"}
+338
+338

@@ -1,0 +1,87 @@
+<html>
+
+<head>
+	<title>Debug server form</title>
+</head>
+
+
+<body>
+	<!-- <form action="/auth method="post">
+		<input type="text" name="login" />
+		<input type="text" name="password" />
+		<input type="submit" />
+		
+	</form> -->
+	
+<h1>/auth</h1>	
+<form action="index.php/auth" method="post">
+    
+    <input type="text" name="login" value="dlog"/> <br>
+    <input type="text" name="password" value="dpass"/> <br>
+    <input type="text" name="regId" value="regid"/> <br>
+    <input type="submit" value="Sends"/>
+</form>
+
+<br><br>
+
+
+
+<h1>/add_rents</h1>
+<form action="index.php/add_rents" method="post">
+    
+    <input type="text" name="id" value="id"/> <br>
+    <textarea rows="10" cols="45" name="rents" value="array"></textarea>
+    
+    <input type="submit" value="Sends"/>
+</form>
+
+
+<br><br>
+
+<h1>/add_rent_item</h1>
+<form action="index.php/add_rent" method="post">
+    
+    <!-- <input type="text" name="id" value="id"/> <br>
+    <textarea rows="10" cols="45" name="rents" value="array"></textarea>-->
+    
+    <input type="submit" value="Sends"/>
+</form>
+
+
+
+<br><br>
+
+<h1>/accept_shift</h1>
+<form action="index.php/accept_shift" method="post">
+    
+    <input type="text" name="point" value="1"/> <br>
+    <input type="text" name="user_id" value="1"/> <br>
+    
+    <input type="submit" value="Sends"/>
+</form>
+
+<br><br>
+
+<h1>/logout</h1>
+<form action="index.php/logout" method="post">
+    
+    <input type="text" name="shift_id" value="1"/> <br>
+    <input type="submit" value="Sends"/>
+</form>
+
+<h1>/post message</h1>
+<form action="index.php/message" method="post">
+    
+    <input type="text" name="data" value="sas" /> <br>
+    <input type="submit" value="Sends"/>
+</form>
+
+<h1>/load data</h1>
+<form action="index.php/data/load" method="post">
+    <input type="submit" value="Sends"/>
+</form>
+
+
+</body>
+
+</html>

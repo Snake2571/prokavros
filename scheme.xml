@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- SQL XML created by WWW SQL Designer, https://github.com/ondras/wwwsqldesigner/ -->
+<!-- Active URL: http://ondras.zarovi.cz/sql/demo/ -->
+<sql>
+<datatypes db="mysql">
+	<group label="Numeric" color="rgb(238,238,170)">
+		<type label="Integer" length="0" sql="INTEGER" quote=""/>
+	 	<type label="TINYINT" length="0" sql="TINYINT" quote=""/>
+	 	<type label="SMALLINT" length="0" sql="SMALLINT" quote=""/>
+	 	<type label="MEDIUMINT" length="0" sql="MEDIUMINT" quote=""/>
+	 	<type label="INT" length="0" sql="INT" quote=""/>
+		<type label="BIGINT" length="0" sql="BIGINT" quote=""/>
+		<type label="Decimal" length="1" sql="DECIMAL" re="DEC" quote=""/>
+		<type label="Single precision" length="0" sql="FLOAT" quote=""/>
+		<type label="Double precision" length="0" sql="DOUBLE" re="DOUBLE" quote=""/>
+	</group>
+
+	<group label="Character" color="rgb(255,200,200)">
+		<type label="Char" length="1" sql="CHAR" quote="'"/>
+		<type label="Varchar" length="1" sql="VARCHAR" quote="'"/>
+		<type label="Text" length="0" sql="MEDIUMTEXT" re="TEXT" quote="'"/>
+		<type label="Binary" length="1" sql="BINARY" quote="'"/>
+		<type label="Varbinary" length="1" sql="VARBINARY" quote="'"/>
+		<type label="BLOB" length="0" sql="BLOB" re="BLOB" quote="'"/>
+	</group>
+
+	<group label="Date &amp; Time" color="rgb(200,255,200)">
+		<type label="Date" length="0" sql="DATE" quote="'"/>
+		<type label="Time" length="0" sql="TIME" quote="'"/>
+		<type label="Datetime" length="0" sql="DATETIME" quote="'"/>
+		<type label="Year" length="0" sql="YEAR" quote=""/>
+		<type label="Timestamp" length="0" sql="TIMESTAMP" quote="'"/>
+	</group>
+	
+	<group label="Miscellaneous" color="rgb(200,200,255)">
+		<type label="ENUM" length="1" sql="ENUM" quote=""/>
+		<type label="SET" length="1" sql="SET" quote=""/>
+		<type label="Bit" length="0" sql="bit" quote=""/>
+	</group>
+</datatypes><table x="807" y="260" name="rents">
+<row name="id" null="1" autoincrement="1">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="start" null="0" autoincrement="0">
+<datatype>TIME(6)</datatype>
+<default>'00:00:00.000000'</default></row>
+<row name="end" null="0" autoincrement="0">
+<datatype>BIGINT(20)</datatype>
+</row>
+<row name="note" null="1" autoincrement="0">
+<datatype>VARCHAR(500)</datatype>
+<default>NULL</default></row>
+<row name="idAdmin" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="admins" row="id" />
+</row>
+<row name="idClient" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="clients" row="id" />
+</row>
+<row name="idInventory" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="inventories" row="id" />
+</row>
+<row name="idPoints" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="points" row="id" />
+</row>
+<row name="completed" null="1" autoincrement="0">
+<datatype>INT(2)</datatype>
+<default>NULL</default></row>
+<row name="guid" null="1" autoincrement="0">
+<datatype>VARCHAR(250)</datatype>
+<default>NULL</default></row>
+<row name="idShift" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="shifts" row="id" />
+</row>
+<row name="expense" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="token" null="1" autoincrement="0">
+<datatype>VARCHAR(1000)</datatype>
+<default>NULL</default></row>
+<row name="idBreakdown" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>-1</default><relation table="breakdown" row="id" />
+</row>
+<row name="idInventoryAddition" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="inventories" row="id" />
+</row>
+<row name="serverId" null="1" autoincrement="0">
+<datatype>VARCHAR(300)</datatype>
+<default>NULL</default></row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Ренты</comment>
+</table>
+<table x="200" y="165" name="inventories">
+<row name="id" null="1" autoincrement="1">
+<datatype>INT</datatype>
+<default>NULL</default></row>
+<row name="idTarif" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="tarifs" row="id" />
+</row>
+<row name="idPoint" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="points" row="id" />
+</row>
+<row name="idRents" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="rents" row="id" />
+</row>
+<row name="model" null="1" autoincrement="0">
+<datatype>VARCHAR(20)</datatype>
+</row>
+<row name="number" null="1" autoincrement="0">
+<datatype>VARCHAR(50)</datatype>
+<default>NULL</default></row>
+<row name="idParent" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="inventories" row="id" />
+</row>
+<row name="idGroup" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="inventories" row="id" />
+</row>
+<row name="numberFrame" null="1" autoincrement="0">
+<datatype>VARCHAR(50)</datatype>
+<default>NULL</default></row>
+<row name="avatar" null="1" autoincrement="0">
+<datatype>VARCHAR(500)</datatype>
+<default>NULL</default></row>
+<row name="state" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>4</default></row>
+<row name="count_rent" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>0</default></row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Инвентарь</comment>
+</table>
+<table x="1044" y="83" name="admins">
+<row name="id" null="1" autoincrement="1">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="name" null="1" autoincrement="0">
+<datatype>VARCHAR(50)</datatype>
+<default>NULL</default></row>
+<row name="email" null="1" autoincrement="0">
+<datatype>VARCHAR(50)</datatype>
+<default>NULL</default></row>
+<row name="pass" null="1" autoincrement="0">
+<datatype>VARCHAR(50)</datatype>
+<default>NULL</default></row>
+<row name="login" null="1" autoincrement="0">
+<datatype>VARCHAR(50)</datatype>
+<default>NULL</default></row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Администраторы</comment>
+</table>
+<table x="803" y="683" name="points">
+<row name="id" null="1" autoincrement="1">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="title" null="0" autoincrement="0">
+<datatype>VARCHAR(250)</datatype>
+</row>
+<row name="address" null="0" autoincrement="0">
+<datatype>VARCHAR(250)</datatype>
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Пункт проката</comment>
+</table>
+<table x="1273" y="542" name="shifts">
+<row name="id" null="1" autoincrement="1">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="idAdmin" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="admins" row="id" />
+</row>
+<row name="accept_date" null="0" autoincrement="0">
+<datatype>TIMESTAMP(6)</datatype>
+<default>'0000-00-00 00:00:00.000000'</default></row>
+<row name="end_date" null="0" autoincrement="0">
+<datatype>TIMESTAMP(6)</datatype>
+<default>'0000-00-00 00:00:00.000000'</default></row>
+<row name="idPoint" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="points" row="id" />
+</row>
+<row name="departure" null="1" autoincrement="0">
+<datatype>TIME</datatype>
+<default>NULL</default></row>
+<row name="arrival" null="1" autoincrement="0">
+<datatype>TIME</datatype>
+<default>NULL</default></row>
+<row name="shiftDate" null="1" autoincrement="0">
+<datatype>DATE</datatype>
+<default>NULL</default></row>
+<row name="state" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>0</default></row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+</table>
+<table x="1591" y="770" name="pointcontracts">
+<row name="id" null="1" autoincrement="1">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="idPoint" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="points" row="id" />
+</row>
+<row name="idAdmin" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="admins" row="id" />
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Закрепление администраторов за пунктами проката</comment>
+</table>
+<table x="987" y="561" name="breakdown">
+<row name="id" null="1" autoincrement="1">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="description" null="1" autoincrement="0">
+<datatype>VARCHAR(500)</datatype>
+<default>NULL</default></row>
+<row name="summ" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="code" null="1" autoincrement="0">
+<datatype>VARCHAR(50)</datatype>
+<default>NULL</default></row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Поломки</comment>
+</table>
+<table x="1053" y="238" name="clients">
+<row name="id" null="1" autoincrement="1">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="name" null="1" autoincrement="0">
+<datatype>VARCHAR(50)</datatype>
+</row>
+<row name="surname" null="1" autoincrement="0">
+<datatype>VARCHAR(50)</datatype>
+</row>
+<row name="phone" null="1" autoincrement="0">
+<datatype>VARCHAR(50)</datatype>
+</row>
+<row name="sex" null="1" autoincrement="0">
+<datatype>VARCHAR(10)</datatype>
+</row>
+<row name="blackList" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>0</default></row>
+<row name="avatar" null="1" autoincrement="0">
+<datatype>VARCHAR(500)</datatype>
+</row>
+<row name="vipNumber" null="1" autoincrement="0">
+<datatype>CHAR(50)</datatype>
+</row>
+<row name="summ" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="serverId" null="1" autoincrement="0">
+<datatype>VARCHAR(30)</datatype>
+</row>
+<row name="count_rents" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Клиенты</comment>
+</table>
+<table x="1448" y="333" name="messages">
+<row name="id" null="1" autoincrement="1">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="idAdmin" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default><relation table="admins" row="id" />
+</row>
+<row name="message" null="1" autoincrement="0">
+<datatype>MEDIUMTEXT</datatype>
+<default>NULL</default></row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Сообщения</comment>
+</table>
+<table x="57" y="161" name="tarifs">
+<row name="id" null="1" autoincrement="1">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="sum_per_hour" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="sum_day" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="sum_ts_hour" null="1" autoincrement="0">
+<datatype>INT(11)</datatype>
+<default>NULL</default></row>
+<row name="name" null="1" autoincrement="0">
+<datatype>VARCHAR(500)</datatype>
+<default>NULL</default></row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Тарифы</comment>
+</table>
+</sql>

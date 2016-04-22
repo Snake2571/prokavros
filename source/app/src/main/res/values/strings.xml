@@ -1,0 +1,249 @@
+<resources>
+
+    <string name="app_name">Велопрокат</string>
+
+    <string name="please_wait"> Идет обработка запроса </string>
+
+    <string name="default_name">Name</string>
+
+    <string name="inventory"> Инвентарь </string>
+
+    <string name="rents"> Ренты </string>
+
+    <string name="chat"> Чат </string>
+
+    <string name="breakdowns"> Поломки </string>
+
+    <string name="authorisation"> Авторизация... </string>
+
+    <string name="update_data"> Оновление баз... </string>
+
+    <string name="load_data"> Загрузка данных... </string>
+
+    <string name="clients"> Клиенты </string>
+
+    <string name="title_client"> Клиент: </string>
+
+    <string name="title_inventory"> Инвентарь: </string>
+
+    <string name="title_summ_fine"> Сумма штрафа: </string>
+
+    <string name="title_additional_inventory"> Доп. инвентарь: </string>
+
+    <string name="title_time"> До: </string>
+
+    <string name="title_breakdown"> Поломка: </string>
+
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_rent">RentActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="action_commit"> Подтвердить </string>
+
+    <string name="title_activity_inventory">InventoryActivity</string>
+
+    <string name="title_activity_profile">Profile</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="title_inventory_number">Номер</string>
+
+    <string name="title_inventory_model">Модель</string>
+
+    <string name="title_rents_count">Аренды</string>
+
+    <string name="title_cost">Цены</string>
+
+    <string name="title_statistics">Статистика</string>
+
+    <string name="title_phone"> Телефон </string>
+
+    <string name="title_email"> Почта </string>
+
+    <string name="title_address"> Адрес </string>
+
+    <string name="title_activity_client"> Activity client </string>
+
+    <string name="title_activity_breakdown_in_rent"> Activity breakdown </string>
+
+    <string name="title_new_rent"> Новая аренда </string>
+
+    <string name="name"> Имя </string>
+
+    <string name="surname"> Фамилия </string>
+
+    <string name="InBlackList"> В черном списке </string>
+
+    <string name="phone"> Телефон </string>
+
+    <string name="templ_phone"> (XXX) XXX XX XX </string>
+
+    <string name="count_shifts"> Количество смен </string>
+
+    <string name="add"> Добавить </string>
+
+    <string name="close"> Закрыть </string>
+
+    <string name="intercede_shift"> Сдать смену </string>
+
+    <string name="closed"> Закрытые </string>
+
+    <string name="current"> Текущие </string>
+
+    <string name="hour"> Час </string>
+
+    <string name="day"> День </string>
+
+    <string name="th_hour"> 36 часов </string>
+
+    <string name="main"> смертные </string>
+
+    <string name="vip"> vip </string>
+
+    <string name="not_specified"> Не орпеделен </string>
+
+    <string name="warning_must_enter_time_and_date"> Поля дата и время обязательны для ввода </string>
+
+    <string name="warning_you_must_calculate_cost"> Посчитайте цену </string>
+
+    <string name="warning_you_must_set_paid_summ"> Укажите оплаченную суму </string>
+
+    <string name="warning_set_prepay"> Установите предоплату </string>
+
+    <string name="warning_can_not_have_empty_field"> Недопустимы пустые поля </string>
+
+    <string name="warning_rent_can_not_be_less_then_one_hour"> Длительность аренды не менее чем 1 час </string>
+
+    <string name="warning_rent_can_not_be_moere_then_three_days"> Длительность аренды не более чем 3 дня </string>
+
+    <string name="warning_can_not_have_empty_message"> Вы не ввели сообщение </string>
+
+    <string name="warning_check_internet_connection"> Проверте интернет соединение </string>
+
+    <string name="warning_duplicate_client"> Клиент с таким номером уже есть в базе </string>
+
+    <string name="warning_duplicate_client_phone"> Этот номер привязан к другому клиенту </string>
+
+    <string name="notice_sanding_is_all_send"> Все данные отправленны </string>
+
+    <string name="notice_sanding_not_send_all_data"> Не все данные отправленны </string>
+
+    <string name='save'> Сохранить </string>
+
+    <string name="hint_login"> Логин </string>
+
+    <string name="hint_password"> Пароль </string>
+
+    <string name="hint_message"> Ваше сообщение </string>
+
+    <string name="hint_enter_client_number"> Введите номер клиента </string>
+
+    <string name="hint_enter_model_name"> Введите имя модели </string>
+
+    <string name="hint_prepay"> Предоплата </string>
+
+    <string name="hint_vip_number"> V.I.P номер </string>
+
+    <string name="was_closed"> Закрыто </string>
+
+    <string name="not_have_additional_inventory"> Без доп. инвентаря: </string>
+
+    <string name="not_selected_client"> Не выбран клиент </string>
+
+    <string name="not_selected_inventory"> Не выбран инвентарь </string>
+
+    <string name="not_selected_additional_inventory"> Не выбрано доп. инвентарь </string>
+
+    <string name="not_set_time"> Не заданно время </string>
+
+    <string name="not_set_date"> Не заданна дата </string>
+
+    <string name="unidentified_user"> Не опознан </string>
+
+    <string name="enter"> Войти </string>
+
+    <string name="count_rent"> Аренды </string>
+
+    <string name="black_list"> Ч/C </string>
+
+    <string name="black_list_text"> Черный список </string>
+
+    <string name="successful_add_data"> Дпнные успешно внесены </string>
+
+    <string name="not_found_anything">  Ничего не найдено </string>
+
+    <string name="can_not_load_data_from_server">  Не удалось загрузить данные с сервера </string>
+
+    <string name="can_not_load_dump_from_server">Не все данные отправлены на сервер. Невозможно загрузить обновления</string>
+
+    <string name="without_photo">  Без фото </string>
+
+    <string name="photo_was_added">  Фото добавленно </string>
+
+    <string name="summ"> Сумма </string>
+
+    <string name="present_in"> Имеет статус </string>
+
+    <string name="vip_number"> Номер карты </string>
+
+    <string name="plus_7"> +7 </string>
+
+    <string name="paid_upon"> Оплачено по факту </string>
+
+    <string name="without_fine"> Без штрафа </string>
+
+    <string name="without_phone"> Без телефона </string>
+
+    <string name="without_surcharge"> Без доплаты </string>
+
+    <string name="without_breakdown"> Без поломки </string>
+
+    <string name="without_name"> Без имени </string>
+
+    <string name="cost"> Цена </string>
+
+    <string name="prepaid"> Предоплата </string>
+
+    <string name="edit"> Редактировать </string>
+
+    <string name="calculate_cost"> Посчитать цену </string>
+
+    <string name="absent"> Нет </string>
+
+    <string name="title_surcharge"> Доплачено по факту </string>
+
+    <string name="title_number_frame"> Номер рамы </string>
+
+    <string name="title_info"> Инфо </string>
+
+    <string name="item_free"> Свободен </string>
+
+    <string name="item_rented"> В аренде </string>
+
+    <string name="item_refit"> В ремонте </string>
+
+    <string name="item_missing"> Потерян </string>
+
+    <string name="title_activity_gallery">GalleryActivity</string>
+
+    <string name="invalid_login_or_password">Не верный логин или пароль</string>
+
+    <string name="refresh_base_server_side_error">Ошибка на сервере при обновлении базы. Обратитесь к разработчику.</string>
+
+    <string name="loadDumpDB_error">Ошибка при обновлении базы. Возможно не устойчивое интернет соединение. Попробуйте позже.</string>
+
+    <string name="server_connection_error">Нет связи с сервером. Работа в автономном режиме.</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_debug">DebugActivity</string>
+
+
+
+</resources>

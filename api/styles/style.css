@@ -1,0 +1,15 @@
+.menu ul li {
+	display: inline;
+    margin-left: 22px;
+}
+
+.menu {
+
+}
+
+.control_panel {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
